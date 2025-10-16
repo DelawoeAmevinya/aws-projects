@@ -21,7 +21,7 @@ After completing this lab, I was able to:
 ![VPC Dashboard](screenshots/objectives.png)
 *Custom VPC with subnets and routing configuration.*
 
-![EC2 in VPC](screenshots/ec2-in-vpc.png)
+![EC2 in VPC](screenshots/ec2-in-vpc.jpg)
 *EC2 instances successfully launched within the custom VPC.*
 
 ## 🧠 Key Takeaways
