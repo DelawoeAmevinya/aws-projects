@@ -17,12 +17,6 @@ After completing this lab, I was able to:
 - Route Tables & Internet Gateways  
 - Security Groups
 
-## 🖼️ Screenshots
-![VPC Dashboard](screenshots/objectives.png)
-*Custom VPC with subnets and routing configuration.*
-
-![EC2 in VPC](screenshots/ec2-in-vpc.jpg)
-*EC2 instances successfully launched within the custom VPC.*
 
 ## 🧠 Key Takeaways
 This lab strengthened my understanding of AWS networking, especially how different components in a VPC work together to establish secure and efficient network architectures.
